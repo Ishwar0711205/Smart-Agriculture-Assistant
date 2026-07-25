@@ -158,6 +158,10 @@ Open your browser at: `http://localhost:8501`
 ## 👨‍💻 Team
 
 **KRISHI Project** – Smart Agriculture Assistant  
+
+
+## Additional Files
+Large files (trained model, training notebook) are available in the Releases section of this repo due to GitHub's file size limits.
 Developed for Minor Project submission.
 
 ---
