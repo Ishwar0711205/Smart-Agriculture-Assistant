@@ -2,7 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Streamlit](https://static.streamlit.io/media/streamlit_badge_black_white.svg)](https://streamlit.io)
+
+## 👨‍💻 Team Members
+- **Ishwar Garje** (Team Leader)
+- **Jay Jangam**
+- **Akash Misale**
 
 An AI-powered Streamlit application that empowers farmers with intelligent agricultural solutions.
 
