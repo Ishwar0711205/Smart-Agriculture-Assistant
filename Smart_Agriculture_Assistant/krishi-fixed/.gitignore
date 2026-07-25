@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+.venv/
+
+# Large model / data files
+*.keras
+*.keras.zip
+*.h5
+*.pb
+*.dll
+Dataset1/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+PLANT-DISEASE-IDENTIFICATION/TRAIN_PLANET_DISEASE_MODULE.ipynb
